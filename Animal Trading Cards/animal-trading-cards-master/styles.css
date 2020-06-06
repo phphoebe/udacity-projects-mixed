@@ -1,0 +1,44 @@
+/* add your CSS here */
+html {
+  font-family: sans-serif, serif;
+}
+
+.TuzkiImage {
+  width: 300px;
+  padding: 10px
+}
+
+.fact {
+  font-style: italic;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+
+#card {
+  border: 1px solid #bfbfbf;
+  width: 320px;
+  padding: 10px;
+  margin: 0;
+  font-size: 11pt;
+  box-shadow: 5px 10px #f0f5f5
+}
+
+#info {
+  border: 1px solid #bfbfbf;
+  padding: 10px;
+  margin: 0;
+}
+
+.name {
+  font: cursive;
+  font-weight: bold;
+  font-size: 20pt;
+  padding: 10px
+}
