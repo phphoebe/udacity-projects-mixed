@@ -9,3 +9,5 @@ Use HTML and CSS to re-create a webpage from a design prototype
 *  Purpose: Query the database to gain an understanding of the customer base and compare store performance.
 *  Requirement: 1) Indiate a question of interest; 2) Write a supportting SQL Query to answer the question; 3) Build a visualization using the SQL query output to convey findings. 
 * Require use of SQL techniques: Aggregations (COUNT, AVG, SUM, etc.) + CTE or Subquery + Window Function.
+
+### [Craft a Campaign Report](https://github.com/phphoebe/udacity-projects-mixed/tree/master/Craft%20a%20Campaign%20Report)
